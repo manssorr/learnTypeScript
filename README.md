@@ -41,7 +41,7 @@
 - 11 Anonymous And Arrow Function
 
 ----
-[studyPlan][https://elzero.org/study/typescript-study-plan/]
+[studyPlan]: https://elzero.org/study/typescript-study-plan/
 [channel]: https://github.com/manssorr
 [coursePlaylist]: https://twitter.com/KouraCoding
 [challengs]: https://elzero.org/category/assignments/typescript-assignments/
