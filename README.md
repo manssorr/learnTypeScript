@@ -1,11 +1,11 @@
 # learnTypeScript
 
 ## This repo is the solutions and notes of Elzero Channel course
-### [The Study Plan][studyPlan]
-### [The Channel][channel]
-### [The Course playlist][coursePlaylist]
-### [The Challengs][challengs]
-### [Course notes][courseNotes]
+### [The Study Plan 🗺️][studyPlan]
+### [The Channel ▶️][channel]
+### [The Course playlist 📃][coursePlaylist]
+### [The Challengs 🦖][challengs]
+### [Course notes 📒][courseNotes]
 
 
 ## The course content 
