@@ -1,6 +1,7 @@
 # learnTypeScript
 
 ## This repo is the solutions and notes of Elzero Channel course
+### [The Study Plan][studyPlan]
 ### [The Channel][channel]
 ### [The Course playlist][coursePlaylist]
 ### [The Challengs][challengs]
@@ -40,7 +41,7 @@
 - 11 Anonymous And Arrow Function
 
 ----
-
+[studyPlan][https://elzero.org/study/typescript-study-plan/]
 [channel]: https://github.com/manssorr
 [coursePlaylist]: https://twitter.com/KouraCoding
 [challengs]: https://elzero.org/category/assignments/typescript-assignments/
