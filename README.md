@@ -26,6 +26,21 @@
 - Clall 07 🦖
 - Clall 08 🦖
 
+## The content
+- 01 Introduction And What Is Typescript
+- 02 Install Typescript And Transpile Files
+- 03 Create Configuration And Watch Files
+- 04 Statically vs Dynamically Typed Languages
+- 05 Type Annotations And Any Type
+- 06 Type Annotations With Array
+- 07 Type Annotations With Multi-Dimensional Array
+- 08 Type Annotations With Function
+- 09 Optional And Default Parameter
+- 10 Function Rest Parameter
+- 11 Anonymous And Arrow Function
+
+----
+
 [channel]: https://github.com/manssorr
 [coursePlaylist]: https://twitter.com/KouraCoding
 [challengs]: https://elzero.org/category/assignments/typescript-assignments/
